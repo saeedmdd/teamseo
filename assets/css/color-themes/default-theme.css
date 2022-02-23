@@ -1,0 +1,54 @@
+/* Theme Color */
+:root {
+  /* #4800ff in decimal RGB */
+  --secondary: rgb(49,0,174);
+  /* #ff0000 in decimal RGB */
+  --main-color: rgb(255,0,0);
+  /* #ffffff in decimal RGB */
+  --white:rgb(255,255,255);
+  /* #555555 in decimal RGB */
+  --grey:rgb(85,85,85);
+  /* #959595 in decimal RGB */
+  --lightgrey:rgb(149,149,149);
+  /* #222222 in decimal RGB */
+  --darkgrey:rgb(34,34,34);
+  /* #000000 in decimal RGB */
+  --black:rgb(0,0,0);
+  /* #fdfdfc in decimal RGB */
+  --light:rgb(253,253,252);
+  /* #1f9fd4 in decimal RGB */
+  --light-blue:rgb(31,59,212);
+  /* #ffcc00 in decimal RGB */
+  --yellow:rgb(255,204,0);
+  /* #f5f5f5 in decimal RGB */
+  --bg-grey:rgb(245,245,245);
+  /* #4661c5 in decimal RGB */
+  --facebook-color:rgb(70,97,197);
+  /* #44b1e4 in decimal RGB */
+  --twitter-color:rgb(68,177,228);
+  /* #0029c2 in decimal RGB */
+  --linkedin-color:rgb(0,41,194);
+
+
+  /* #ad0001 in decimal RGB */
+  --red:rgb(173,0,1);
+  /* #033e00 in decimal RGB */
+  --green:rgb(3,62,0);
+  /* #0ec312 in decimal RGB */
+  --light-green:rgb(14,195,18);
+  /* #0043ff in decimal RGB */
+  --sl-blue:rgb(0,67,255);
+  /* #00118e in decimal RGB */
+  --dl-blue:rgb(0,17,142);
+  /* #3f003b in decimal RGB */
+  --purple:rgb(63,0,59);
+  /* #be00c5 in decimal RGB */
+  --light-purple:rgb(190,0,197);
+
+
+
+
+  --main-color-opicity:255,0,0;
+  --secondary-opicity:49,0,174;
+  --white-opicity:255,255,255;
+  --black-opicity:0,0,0;

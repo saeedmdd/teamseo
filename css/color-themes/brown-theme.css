@@ -1,0 +1,11 @@
+/* Theme Color */
+:root {
+  /* #2ECC40 in decimal RGB */
+  --secondary: rgb(46,204,64);
+  /* #ab8b40 in decimal RGB */
+  --main-color: rgb(171,139,64);
+
+
+  --main-color-opicity:171,139,64;
+  --secondary-opicity:46,204,64;
+}
